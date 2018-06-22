@@ -1,0 +1,10 @@
+[
+	{
+	"id": "0",
+	"batchcomplete": "",
+	"pageid": 38974349,
+	"ns": 0,
+	"title": "Ember.js",
+	"extract": "<p><b>Ember.js</b> is an open-source JavaScript web framework, based on the Model–view–viewmodel (MVVM) pattern. It allows developers to create scalable single-page web applications by incorporating common idioms and best practices into the framework.</p>\n<p>Ember is used on many popular websites, including Discourse, Groupon, Vine, Live Nation, Nordstrom, Twitch.tv and Chipotle. Although primarily considered a framework for the web, it is also possible to build desktop and mobile applications in Ember. The most notable example of an Ember desktop application is Apple Music, a feature of the iTunes desktop application.</p>\n<p>In November 2015 ember-cli was downloaded over 200,000 times from its npm repository.</p>\n<p></p>"
+	}
+]

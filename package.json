@@ -1,0 +1,44 @@
+{
+  "name": "flat-file-test",
+  "version": "0.0.0",
+  "description": "Small description for flat-file-test goes here",
+  "private": true,
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "ember build",
+    "start": "ember server",
+    "test": "ember test"
+  },
+  "repository": "",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli-asset-rev": "^2.4.2",
+    "ember-ajax": "^3.1.0",
+    "ember-cli": "^3.1.4",
+    "ember-cli-app-version": "^3.2.0",
+    "ember-cli-babel": "^6.14.1",
+    "ember-cli-dependency-checker": "^1.2.0",
+    "ember-cli-htmlbars": "^1.0.3",
+    "ember-cli-htmlbars-inline-precompile": "^1.0.3",
+    "ember-cli-inject-live-reload": "^1.4.0",
+    "ember-cli-jshint": "^2.0.1",
+    "ember-cli-qunit": "^4.3.2",
+    "ember-cli-release": "^0.2.9",
+    "ember-cli-sri": "^2.1.0",
+    "ember-cli-test-loader": "^2.2.0",
+    "ember-cli-uglify": "^1.2.0",
+    "ember-data": "^2.7.0",
+    "ember-export-application-global": "^2.0.0",
+    "ember-load-initializers": "^0.5.1",
+    "ember-resolver": "^4.5.6",
+    "ember-welcome-page": "^3.2.0",
+    "loader.js": "^4.0.1"
+  }
+}
